@@ -1,2 +1,0 @@
-C:\Users\kousuke\Documents\ブロック崩し\BreakOut\Debug\BreakOut.exe
-C:\Users\kousuke\Documents\ブロック崩し\BreakOut\Debug\BreakOut.pdb
