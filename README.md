@@ -2,9 +2,11 @@
 - 使用した技術スタック
 C#、Unity、Visual Studioを使用
 
+
 -操作方法
 左右キー：移動
 spaceキー：ジャンプ
+
 
 - スクリーンショット
 
@@ -19,6 +21,7 @@ spaceキー：ジャンプ
 3.「2DActionGame-Mini_Data」を「2DAction」へ移動
 
 4.2DActionGame-Mini.exeを起動
+
 
 -プレイ動画
 
