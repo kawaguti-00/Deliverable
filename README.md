@@ -13,8 +13,11 @@ spaceキー：ジャンプ
 
 - ローカル環境での動かし方
 1.2DAction,2DActionGame-Mini_Data,Managedをダウンロード
+
 2.「Managed」を「2DActionGame-Mini_Data」へ移動
+
 3.「2DActionGame-Mini_Data」を「2DAction」へ移動
+
 4.2DActionGame-Mini.exeを起動
 
 -プレイ動画
